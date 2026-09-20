@@ -11,10 +11,10 @@ El repositorio contiene los siguientes archivos:
 
 ## Cómo abrir el notebook en Google Colab
 Para trabajar con el notebook en Google Colab:
-- 1. Abre el repositorio en GitHub.
-- 2. Abre el archivo everpeak_analysis.ipynb.
-- 3. Selecciona la opción Open in Colab o Open with Colab.
-- 4. Una vez abierto en Colab, ejecuta las celdas del notebook en orden.
+1. Abre el repositorio en GitHub.
+2. Abre el archivo everpeak_analysis.ipynb.
+3. Selecciona la opción Open in Colab o Open with Colab.
+4. Una vez abierto en Colab, ejecuta las celdas del notebook en orden.
 También puedes abrir el notebook directamente desde Google Colab si tienes disponible el enlace correspondiente.
 
 ## Cómo reproducir el análisis
